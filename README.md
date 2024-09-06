@@ -31,3 +31,22 @@
 5. 참고: Schlegl, Thomas, et al. "f-AnoGAN: Fast unsupervised anomaly detection with generative 
     adversarial networks." Medical image analysis 54 (2019): 30-44.
 
+
+![output](https://github.com/user-attachments/assets/567c65b4-6b2f-474d-8184-1f97015c03f5)
+![architecture](https://github.com/user-attachments/assets/cf2989c2-1125-4392-b9bc-a11ac3cddf1b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
