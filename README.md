@@ -3,7 +3,7 @@
 
 # Test 모델을 이용한 Test 도출
 
-* Github Url: https://github.com/shiny0510/FewShot_GAN-Unet3D (꼭! 하이퍼링크)
+* Github Url: https://github.com/LeeYongHA97/Githubtest (꼭! 하이퍼링크)
 
 * requirement: pandas, numpy, torch, seaborn, matplotlib
 
